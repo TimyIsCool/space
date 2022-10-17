@@ -1,9 +1,9 @@
 {
-  "name": "Void",
+  "name": "Space",
   "description": "UV Void prox",
-  "repository": "https://github.com/AstralService/Void",
+  "repository": "https://github.com/TimyIsCool/space",
   "logo": "na",
-  "keywords": ["void", "uv"],
+  "keywords": ["space", "uv"],
   "env": {
     "BlacklistedIPs": {
       "description": "Blacklist IPS from entering the site. Leave as default if you don't know what you're doing.",
